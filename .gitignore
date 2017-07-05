@@ -2,3 +2,9 @@
 *.pidb
 bin/
 test-results/
+/NxBRE3/Source/obj
+/NxBRE3/Source/obj/Debug
+*.dll
+*.pdb
+/NxBRE3/Test/obj/Debug/TempPE
+*.cache
